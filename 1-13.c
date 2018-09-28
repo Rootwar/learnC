@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void) 
-{   
+int main(void) {   
     //*** Variable block ***//
     int wordCount[10];
     int c, i, t, wordLength, maxWordCount;

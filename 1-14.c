@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{	
+int main(void) {	
 	int c, i, t;
 	int charsCount[93];
 
